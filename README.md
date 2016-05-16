@@ -1,3 +1,3 @@
 # SelfPractice
 Project for personal practise
-version20160516-1
+version:20160516-1
